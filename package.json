@@ -1,0 +1,28 @@
+{
+  "name": "@barilee/how-to-npm",
+  "version": "1.0.0",
+  "description": "How To NPM tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/barilee/how-to-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "tutorial",
+    "how",
+    "to",
+    "how",
+    "to",
+    "npm"
+  ],
+  "author": "Barilee Apenu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barilee/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/barilee/how-to-npm#readme"
+}
